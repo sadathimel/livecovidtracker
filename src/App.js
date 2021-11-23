@@ -1,9 +1,10 @@
 import React from 'react'
+import Covid from './components/Covid'
 
 const App = () => {
   return (
     <>
-      <h1>COVID-19 CORONAVIRUS TRACER</h1>
+      <Covid />
     </>
   )
 }

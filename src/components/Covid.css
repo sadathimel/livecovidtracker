@@ -1,0 +1,19 @@
+section h1,h2{
+    text-align: center;
+}
+ul{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    text-align: center;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    font-weight: 400;
+    list-style-type: none;
+    margin: 5px;
+    border: 2px solid tomato;
+}
